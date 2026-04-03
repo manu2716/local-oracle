@@ -5,14 +5,14 @@
 
 3.Run the below command.
 
-docker compose up -d
+**docker compose up -d**
 
 4.Install the Oracle SQL Client on the machine.
 
 5.Create the new connection to running oracle container with below credentials.
 
-username - system
+**username - system**
 
-password - manu123
+**password - manu123**
 
-Connection Name - local
+**Connection Name - local**
